@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021610336171",
+    "project_id": "sendnotifytoreapp",
+    "storage_bucket": "sendnotifytoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021610336171:android:e2b104082e07df2738bcee",
+        "android_client_info": {
+          "package_name": "com.appre.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv0HiMsvsc01OVZMqSUQHva08jtAzySaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

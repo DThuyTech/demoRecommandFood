@@ -1,0 +1,363 @@
+[
+   {
+    "monday": {
+      "breakfast": [
+        {
+          "id": 402,
+          "name": "Canh khổ qua hầm",
+          "calories": 174.2,
+          "protein": 10,
+          "carbohydrates": 11.4,
+          "fat": 7.9,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 398,
+          "name": "Canh cải ngọt",
+          "calories": 30.1,
+          "protein": 1.7,
+          "carbohydrates": 2.1,
+          "fat": 1.1,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "lunch": [
+        {
+          "id": 892,
+          "name": "Đậu phộng nấu",
+          "calories": 395.1,
+          "protein": 19,
+          "carbohydrates": 30.7,
+          "fat": 10.7,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 540,
+          "name": "Đậu hủ dồn thịt",
+          "calories": 196.3,
+          "protein": 9.1,
+          "carbohydrates": 14.3,
+          "fat": 7.8,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 542,
+          "name": "Đùi gà chiên",
+          "calories": 173.1,
+          "protein": 11,
+          "carbohydrates": 12.3,
+          "fat": 4.6,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 557,
+          "name": "Mắm chưng",
+          "calories": 194.1,
+          "protein": 13.3,
+          "carbohydrates": 13.7,
+          "fat": 4.4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 563,
+          "name": "Nấm rơm kho",
+          "calories": 153.7,
+          "protein": 7.5,
+          "carbohydrates": 10.5,
+          "fat": 7.3,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 554,
+          "name": "Khổ qua xào trứng",
+          "calories": 113.3,
+          "protein": 4.6,
+          "carbohydrates": 8.5,
+          "fat": 4.6,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "tuesday": {
+      "breakfast": [],
+      "lunch": [
+        {
+          "id": 411,
+          "name": "Cháo gỏi vịt",
+          "calories": 931.9,
+          "protein": 50.2,
+          "carbohydrates": 60.3,
+          "fat": 47.1,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 503,
+          "name": "Đậu phộng",
+          "calories": 572.5,
+          "protein": 27.5,
+          "carbohydrates": 44.5,
+          "fat": 15.5,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "wednesday": {
+      "breakfast": [
+        {
+          "id": 408,
+          "name": "Canh rau ngót",
+          "calories": 29.3,
+          "protein": 1.9,
+          "carbohydrates": 2.1,
+          "fat": 0.7,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "lunch": [
+        {
+          "id": 966,
+          "name": "Hạt bí",
+          "calories": 519,
+          "protein": 35.1,
+          "carbohydrates": 31.8,
+          "fat": 23,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 580,
+          "name": "Thịt kho trứng",
+          "calories": 315.3,
+          "protein": 19.8,
+          "carbohydrates": 22.9,
+          "fat": 7.5,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 898,
+          "name": "Đậu phộng rang",
+          "calories": 572.5,
+          "protein": 27.5,
+          "carbohydrates": 44.5,
+          "fat": 15.5,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 536,
+          "name": "Chả trứng chưng",
+          "calories": 126.7,
+          "protein": 10.8,
+          "carbohydrates": 5.1,
+          "fat": 9.4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "thursday": {
+      "breakfast": [],
+      "lunch": [
+        {
+          "id": 899,
+          "name": "Đậu phộng chiên muối",
+          "calories": 617.5,
+          "protein": 27.5,
+          "carbohydrates": 49.5,
+          "fat": 15.5,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 510,
+          "name": "Bầu xào trứng",
+          "calories": 108.5,
+          "protein": 4,
+          "carbohydrates": 8.5,
+          "fat": 4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 817,
+          "name": "Hột vịt lộn",
+          "calories": 98.3,
+          "protein": 7.3,
+          "carbohydrates": 6.7,
+          "fat": 2.2,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 711,
+          "name": "Sữa chua",
+          "calories": 60.9,
+          "protein": 3.3,
+          "carbohydrates": 3.7,
+          "fat": 3.6,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "friday": {
+      "breakfast": [
+        {
+          "id": 543,
+          "name": "Gà kho gừng",
+          "calories": 300.7,
+          "protein": 21.9,
+          "carbohydrates": 19.1,
+          "fat": 10.3,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "lunch": [
+        {
+          "id": 508,
+          "name": "Mè",
+          "calories": 568.4,
+          "protein": 20.1,
+          "carbohydrates": 46.4,
+          "fat": 17.6,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 714,
+          "name": "Ba tê",
+          "calories": 326.2,
+          "protein": 10.8,
+          "carbohydrates": 24.6,
+          "fat": 15.4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 566,
+          "name": "Sườn ram",
+          "calories": 155.7,
+          "protein": 10.9,
+          "carbohydrates": 11.3,
+          "fat": 2.6,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 565,
+          "name": "Sườn nướng",
+          "calories": 123.6,
+          "protein": 10.6,
+          "carbohydrates": 7.2,
+          "fat": 4.1,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "saturday": {
+      "breakfast": [
+        {
+          "id": 539,
+          "name": "Đậu hủ dồn thịt",
+          "calories": 328.2,
+          "protein": 18.7,
+          "carbohydrates": 25.8,
+          "fat": 5.3,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "lunch": [
+        {
+          "id": 751,
+          "name": "Patê",
+          "calories": 326.2,
+          "protein": 10.8,
+          "carbohydrates": 24.6,
+          "fat": 15.4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 545,
+          "name": "Gà xào sả ớt",
+          "calories": 272.3,
+          "protein": 20.4,
+          "carbohydrates": 19.1,
+          "fat": 4.7,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 824,
+          "name": "Trứng vịt lộn",
+          "calories": 182,
+          "protein": 13.6,
+          "carbohydrates": 12.4,
+          "fat": 4,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 870,
+          "name": "Hạt điều",
+          "calories": 291.9,
+          "protein": 9.2,
+          "carbohydrates": 24.7,
+          "fat": 8.2,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 541,
+          "name": "Đậu hủ sốt cà",
+          "calories": 238.8,
+          "protein": 18.1,
+          "carbohydrates": 13.6,
+          "fat": 11,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    },
+    "sunday": {
+      "breakfast": [],
+      "lunch": [
+        {
+          "id": 916,
+          "name": "Bún đậu mắm tôm",
+          "calories": 760,
+          "protein": 58.3,
+          "carbohydrates": 44.5,
+          "fat": 48.9,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 537,
+          "name": "Chim cút chiên bơ",
+          "calories": 203.7,
+          "protein": 10.6,
+          "carbohydrates": 16.9,
+          "fat": 2.3,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ],
+      "dinner": [
+        {
+          "id": 455,
+          "name": "Đậu phộng chiên",
+          "calories": 679.5,
+          "protein": 25.7,
+          "carbohydrates": 59.5,
+          "fat": 10.3,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        },
+        {
+          "id": 706,
+          "name": "Súp lơ",
+          "calories": 29.6,
+          "protein": 2.5,
+          "carbohydrates": 0,
+          "fat": 4.9,
+          "imageUrl": "https://fado.vn/blog/wp-content/uploads/2022/04/top-11-cac-mon-an-healthy-don-gian-giam-can-giu-dang-chuan-1.jpg"
+        }
+      ]
+    }
+  }
+]
